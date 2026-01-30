@@ -58,14 +58,14 @@ Similar systems are already used by:
    
 The system can be improved by adding:
 
-1.Collaborative filtering techniques
+✅Collaborative filtering techniques
 
-2.Real-time user behavior analysis
+✅ Real-time user behavior analysis
 
-3.AI chatbot integration
+✅ AI chatbot integration
 
-4.Mobile application support
+✅Mobile application support
 
-5.Integration with university LM
+✅Integration with university LM
 
 🔰IntelliPath AI is an effective, user-friendly, and AI-relevant learning recommendation system. It is fully achievable as a real-life application with future enhancements.
