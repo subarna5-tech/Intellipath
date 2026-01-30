@@ -1,8 +1,10 @@
 Intellipath AI 
 1. What Does IntelliPath AI Do?
+   
 IntelliPath is an AI-based smart learning recommendation system that analyzes students’ learning history to determine their future learning path. In this system, Python and data mining techniques are used to identify similarities among courses and recommend suitable courses based on students’ interests. IntelliPath provides an effective, simple, and user-friendly e-learning solution for learners. 
 
-2. Key Features of IntelliPath AI
+3. Key Features of IntelliPath AI
+4. 
 1.Student Profile Management
 2.Learning History Analysis
 3.Course Similarity Detection
