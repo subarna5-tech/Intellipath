@@ -5,43 +5,43 @@ Intellipath AI 
 
 2. Key Features of IntelliPath AI:
     
-1.Student Profile Management
+✅Student Profile Management
 
-2.Learning History Analysis
+✅Learning History Analysis
 
-3.Course Similarity Detection
+✅Course Similarity Detection
 
-4.Personalized Course Recommendation
+✅Personalized Course Recommendation
 
-5.Simple and User-Friendly Output
+✅Simple and User-Friendly Output
 
 3.Implementation Plan (Tools and Technologies):
 
-Python – Main programming language
+🟢Python – Main programming language
 
-Pandas – Data processing and analysis
+🟢Pandas – Data processing and analysis
 
-Num Py – Numerical computation
+🟢Num Py – Numerical computation
 
-Scikit-learn (basic) – Similarity calculation
+🟢Scikit-learn (basic) – Similarity calculation
 
-CSV Dataset – Student and course 
+🟢CSV Dataset – Student and course 
 
 (DataAlgorithms and Techniques)
 
-Content-Based Filtering
+🟡Content-Based Filtering
 
-Cosine Similarity
+🟡Cosine Similarity
 
 4.Relevance to Artificial Intelligence Course:
 
-1.Artificial Intelligence–based decision making
+✅ Artificial Intelligence–based decision making
 
-2.Recommendation systems
+✅Recommendation systems
 
-3.Data mining and similarity analysis
+✅Data mining and similarity analysis
 
-4.Personalized intelligent systems
+✅Personalized intelligent systems
 
 6. Real-Life Feasibility:
    
