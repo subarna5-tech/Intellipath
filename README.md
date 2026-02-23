@@ -16,6 +16,8 @@ Intellipath AI 
 ✅Simple and User-Friendly Output
 
 3.Implementation Plan (Tools and Technologies):
+   
+🟢 Basic structure - HTML, CSS 
 
 🟢Python – Main programming language
 
