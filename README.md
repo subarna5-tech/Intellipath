@@ -17,11 +17,11 @@ Intellipath AI 
 
 3.Implementation Plan (Tools and Technologies):
    
-🟢 Basic structure - HTML, CSS 
+🟢 Basic structure - HTML, CSS, JS  
 
-🟢Python – Main programming language
+🟢Recat v19 – Main programming language
 
-🟢Pandas – Data processing and analysis
+🟢Google API / Firebase – Data processing and analysis
 
 🟢Num Py – Numerical computation
 
@@ -50,7 +50,7 @@ Intellipath AI 
 IntelliPath AI is feasible in real-life applications.
 Similar systems are already used by:
 
-1.Udemy
+1.ChatGpt
 
 2.LinkedIn Learning
 
