@@ -1,0 +1,9 @@
+{
+  "description": "IntelliPath AI: An Artificial Intelligence–based smart learning recommendation system designed to provide personalized learning paths for students. Analyzes learning history, performance, and interests to recommend future courses.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ],
+  "name": "INTELLIPATH AI"
+}
